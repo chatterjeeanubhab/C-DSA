@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <malloc.h>
 #include <stdlib.h>
-
 struct node {
   int value;
   struct node *next;
